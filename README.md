@@ -1,4 +1,4 @@
-# 📚 Exercício Django-Mixin
+# 📚 Exercício Principais Conceitos Django
 
 Bem-vindo ao projeto de exercício! Este repositório contém exercícios práticos em Python usando o framework Django. 🚀
 
